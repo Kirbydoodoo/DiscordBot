@@ -16,5 +16,10 @@ Currently this bot is private but you can use the code to run your own bot.
 4. Once this is done copy your `Client ID:` and put it in a text document
 5. Add your bot to your server by clicking this [link](https://discordapp.com/api/oauth2/authorize?response_type=code&client_id=157730590492196864&scope=identify%20guilds.join&state=15773059ghq9183habn&redirect_uri=https%3A%2F%2Fnicememe.website) and adding your `Client ID:` where the URL says `client_id=`
 6. Choose your server and check your discord to see if the bot has been added.
+7. Next return to the Bot Page and copy the `Token` to a text file named `Discord_Bot.txt`
+8. Open the `Program.cs` file in a text editor and change the path of the `sr` to where you saved your text file.
+9. Now you can run the bot for your own server~
 
-
+# Commands
+The bot is activated by the `!` character. 
+Type !help in discord to have a prompt appear and show you how to initiate the giveaway.
