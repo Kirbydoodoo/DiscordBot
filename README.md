@@ -18,7 +18,7 @@ Currently this bot is private but you can use the code to run your own bot.
 6. Choose your server and check your discord to see if the bot has been added.
 7. Next return to the Bot Page and copy the `Token` to a text file named `Discord_Bot.txt`
 8. Open the `Program.cs` file in a text editor and change the path of the `sr` to where you saved your text file.
-9. Now you can run the bot for your own server~
+9. Now you can run the bot for your own server
 
 # Commands
 The bot is activated by the `!` character. 
