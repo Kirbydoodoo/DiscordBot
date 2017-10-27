@@ -22,4 +22,4 @@ Currently this bot is private but you can use the code to run your own bot.
 
 # Commands
 The bot is activated by the `!` character. 
-Type !help in discord to have a prompt appear and show you how to initiate the giveaway.
+Type `!help` in discord to have a prompt appear and show you how to initiate the giveaway.
